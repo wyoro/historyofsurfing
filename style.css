@@ -1,0 +1,11 @@
+body {
+  font-family: 'Poppins', 'serif';
+  background-image: url("https://images6.alphacoders.com/431/431411.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  height: 500px;
+  width: 200px;
+}
